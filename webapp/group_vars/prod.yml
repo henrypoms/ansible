@@ -1,0 +1,3 @@
+ansible_user: client1
+ansible_password: 12345678
+
